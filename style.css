@@ -1,0 +1,27 @@
+.jumbotron {
+    background-image: url(img/banjo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* height: 100vh;*/
+}
+
+.jumbotron .container {
+    width: 60%;
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff
+}
+
+.jumbotron .container p {
+    color: #fff
+}
+
+footer {
+    background: #444;
+
+}
+
+footer .container-fluid {
+    margin: 0;
+    padding: 10px;
+}
